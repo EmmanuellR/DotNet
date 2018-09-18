@@ -1,0 +1,6 @@
+c:\users\professor\documents\visual studio 2015\Projects\AppExemplo2\AppExemplo.Apresentacao\bin\Debug\AppExemplo.Apresentacao.exe.config
+c:\users\professor\documents\visual studio 2015\Projects\AppExemplo2\AppExemplo.Apresentacao\bin\Debug\AppExemplo.Apresentacao.exe
+c:\users\professor\documents\visual studio 2015\Projects\AppExemplo2\AppExemplo.Apresentacao\bin\Debug\AppExemplo.Apresentacao.pdb
+c:\users\professor\documents\visual studio 2015\Projects\AppExemplo2\AppExemplo.Apresentacao\obj\Debug\AppExemplo.Apresentacao.csprojResolveAssemblyReference.cache
+c:\users\professor\documents\visual studio 2015\Projects\AppExemplo2\AppExemplo.Apresentacao\obj\Debug\AppExemplo.Apresentacao.exe
+c:\users\professor\documents\visual studio 2015\Projects\AppExemplo2\AppExemplo.Apresentacao\obj\Debug\AppExemplo.Apresentacao.pdb
